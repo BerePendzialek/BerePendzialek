@@ -2,8 +2,9 @@
 
 I got my first official training at the [neuefische coding bootcamp](https://www.neuefische.de/) at the beginning of 2021. 
 
-- 🌱 I’m currently searching for a job in the front end web development world
-- 👯 I’m looking to collaborate on React - based projects and what to keep on learning!
+- 🔭 I’m currently searching for a job in the front end web development world.
+- 👯 I’m looking to collaborate on React - based projects and want to keep on learning!
+- 🌱 I love to keep on learning and continuously experiencing aha moments!
 
 [![BerePendzialek's github stats](https://github-readme-stats.vercel.app/api?username=BerePendzialek)](https://github.com/anuraghazra/github-readme-stats)
 
