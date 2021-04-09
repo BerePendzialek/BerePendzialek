@@ -5,6 +5,7 @@ I got my first official training at the [neuefische coding bootcamp](https://www
 - 🔭 I’m currently searching for a job in the front end web development world.
 - 👯 I’m looking to collaborate on React - based projects and want to keep on learning!
 - 🌱 I love to keep on learning and continuously experiencing aha moments!
+- ⚡ Fun fact: I hold a record in my family as the fastest one peeling raw shrims. 
 
 [![BerePendzialek's github stats](https://github-readme-stats.vercel.app/api?username=BerePendzialek)](https://github.com/anuraghazra/github-readme-stats)
 
